@@ -3,14 +3,16 @@ A tool to assist in searching for ROP gadgets for syscalls.
 
 Supports x86_64 ELF
 
-Install ropper:
+### Install ropper
 https://github.com/sashs/Ropper
 
-Usage:
-./ROPHelper
+### Usage
+Run tool: ./ROPHelper
 
 Enter file path as prompted.
-Enter syscall function name, or "list" to display syscall table.
+
+Enter a syscall function name, or "list" to display syscall table.
+
 Enter values for each parameter, one value at a time.
 
-After the file path prompt, you may use command "quit" to exit the tool.
+After the file path prompt, you may use command "quit" anytime to exit the tool.
