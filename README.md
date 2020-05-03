@@ -15,4 +15,4 @@ Enter a syscall function name, or "list" to display syscall table.
 
 Enter values for each parameter, one value at a time.
 
-After the file path prompt, you may use command "quit" at anytime to exit the tool.
+After entering the file path, you may use command "quit" at any time to exit the tool.
